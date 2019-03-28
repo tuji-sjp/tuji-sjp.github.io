@@ -13,8 +13,6 @@ tags:
 
 ---
 
-
-
 ## 【论文笔记 2】CNN经典入门STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET
 
 ### 1. 综述
