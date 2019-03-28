@@ -1,11 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Jack Blog
+SEOTitle: 杨涵晨的博客 | jack Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: 16281052@bjtu.edu.cn
+description: "关于程序与设计、旅行者与梦想家 | 杨涵晨,Programmer,Software Engineer，UX Designer | 这里是 @jack杨涵晨 的个人博客，与你一起发现更大的世界。"
+keyword: "杨涵晨, jack杨涵晨, jack, 鬼栈, jackyanghc, @jackyanghc, 杨涵晨的博客, jack Blog, 博客, 个人网站, 互联网, 机器学习, tensorflow, 深度学习, 设计"
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +12,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+zhihu_username:     jackyanghc
+github_username:    jackyanghc
+#facebook_username:  jackyanghc
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -59,7 +56,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: jack
 
 # Netease settings
 netease_comment: false
@@ -123,17 +120,5 @@ friends: [
     },{
         title: "SmdCn's Blog",
         href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
     }
 ]
