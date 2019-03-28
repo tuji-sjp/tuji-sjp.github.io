@@ -1,10 +1,10 @@
 # Site settings
-title: 杨涵晨的博客
+title: Jack Blog
 SEOTitle: 杨涵晨的博客 | jack Blog
 header-img: img/home-bg.jpg
 email: 16281052@bjtu.edu.cn
 description: "关于程序与设计、旅行者与梦想家 | 杨涵晨,Programmer,Software Engineer，UX Designer | 这里是 @jack杨涵晨 的个人博客，与你一起发现更大的世界。"
-keyword: "杨涵晨, jack杨涵晨, jack, 鬼栈, jackyanghc, @jackyanghc, 杨涵晨的博客, jack Blog, 博客, 个人网站, 互联网, 机器学习, tensorflow, 深度学习, 设计"
+keyword: "杨涵晨, jack杨涵晨, jack, jackyanghc, @jackyanghc, 杨涵晨的博客, jack Blog, 博客, 个人网站, 互联网, 机器学习, tensorflow, 深度学习, 设计"
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
