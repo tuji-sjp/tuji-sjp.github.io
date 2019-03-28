@@ -67,9 +67,9 @@ netease_comment: false
 # Baidu Analytics 
 # ba_track_id: [your track id]
 
-# Google Analytics
-# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-# ga_domain: huangxuan.me
+Google Analytics
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
 
 
 
@@ -97,28 +97,16 @@ page-mathjax: false
 
 
 
-# # Friends
-# friends: [
-#     {
-#     #     title: "Su",
-#     #     href: "http://su.gallery/"
-#     # },{
-#         title: "乱序",
-#         href: "http://mida.re/"
-#     },{
-#         title: "前端外刊评论",
-#         href: "http://qianduan.guru/"
-#     },{
-#         title: "天镶的博客",
-#         href: "http://lingyu.wang/"
-#     },{
-#         title: "Luke 的自留地",
-#         href: "http://hmqk1995.github.io"
-#     },{
-#         title: "Ebn's Blog",
-#         href: "http://ebnbin.com/"
-#     },{
-#         title: "SmdCn's Blog",
-#         href: "http://blog.smdcn.net"
-#     }
-# ]
+# Friends
+friends: [
+    {
+        title: "前端外刊评论",
+        href: "http://qianduan.guru/"
+    },{
+        title: "孙汉武的博客",
+        href: "https://sunhanwu.github.io/SunPages"
+    },{
+        title: "刘欢 的博客",
+        href: "https://michel-liu.github.io/"
+    }
+]
