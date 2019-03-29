@@ -97,9 +97,6 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
         title: "孙汉武的博客",
         href: "https://sunhanwu.github.io/SunPages"
     },{
