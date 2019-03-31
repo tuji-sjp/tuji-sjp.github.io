@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "操作系统_lab3_同步问题 "
-subtitle:   " \"系统调用的进一步理解。进程上下文切换。同步的方法。\""
+subtitle:   " \"系统调用的进一步理解\""
 date:       2019-03-30 23:00:00
 author:     "jack"
 header-img: "img/post-bg-infinity.jpg"
@@ -14,9 +14,8 @@ tags:
 
 
 
-<center>  <font face="华文中宋" size=6> 操作系统实验三 同步问题   </font></center>
+#操作系统实验三 同步问题   
 
-<p align="right"><font face="楷体" size=4 >计科1601 16281052 杨涵晨 </font></p>
 
 #### 一.实验目的
 
