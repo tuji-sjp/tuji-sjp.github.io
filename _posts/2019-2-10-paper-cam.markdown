@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "CV 经典入门 Network in network"
-subtitle:   " \"CAM中提出的GAP研究，出自这篇论文\""
-date:       2019-02-10 13:00:00
+title:      "CV 经典入门 CAM"
+subtitle:   " \"Class Acivation Map\""
+date:       2019-03-18 13:00:00
 author:     "jack"
 header-img: "img/contact-bg.jpg"
 catalog: true
@@ -12,7 +12,7 @@ tags:
     - 机器学习
 ---
 
-## 【论文笔记 4】CV 经典入门 Network in network
+## 【论文笔记 4】CV 经典入门 CAM
 
 <https://blog.csdn.net/qq_30159015/article/details/79765520>
 
