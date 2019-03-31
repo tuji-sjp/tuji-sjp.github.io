@@ -1,6 +1,6 @@
 # Site settings
-title: Love Story
-SEOTitle: 涵晨❤雨芯 Blog
+title: Jack Blog
+SEOTitle: 涵晨 😁 Blog
 header-img: img/about-bg.jpg
 email: 16281052@bjtu.edu.cn
 description: "关于程序与设计、旅行者与梦想家 | 杨涵晨,Programmer,Software Engineer，UX Designer | 这里是 @jack杨涵晨 的个人博客，与你一起发现更大的世界。"
@@ -100,7 +100,7 @@ friends: [
         title: "孙汉武的博客",
         href: "https://sunhanwu.github.io/SunPages"
     },{
-        title: "刘欢 的博客",
+        title: "刘欢的博客",
         href: "https://michel-liu.github.io/"
     }
 ]
