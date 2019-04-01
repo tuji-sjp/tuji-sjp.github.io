@@ -4,7 +4,7 @@ title:      "Hello World Hello blog "
 subtitle:   " \"世界很大，我很小\""
 date:       2018-11-30 23:00:00
 author:     "jack"
-header-img: "img/post-bg-live.jpg"
+header-img: "img/post-bg-un.jpg"
 catalog: true
 tags:
     - 大学

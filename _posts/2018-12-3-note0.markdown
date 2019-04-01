@@ -4,7 +4,7 @@ title:      "吴恩达deepAI深度学习第一周课程学习笔记"
 subtitle:   " \"神经网络入门，关于池化，步长等基础操作\""
 date:       2018-12-3 17:00:00
 author:     "jack"
-header-img: "img/post-bg-plan.jpg"
+header-img: "img/post-bg-road.jpg"
 catalog: true
 tags:
     - CNN
@@ -69,7 +69,6 @@ $$
 
 反向传播过程：
 
-![1552875282671](C:\Users\11788\AppData\Roaming\Typora\typora-user-images\1552875282671.png)
 
 前面过程的da、dz求导：
 
