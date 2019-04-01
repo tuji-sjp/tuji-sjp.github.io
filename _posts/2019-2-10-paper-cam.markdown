@@ -4,7 +4,7 @@ title:      "论文笔记4:Class Acivation Map"
 subtitle:   " \"CV 经典入门 CAM\""
 date:       2019-03-28 13:00:00
 author:     "jack"
-header-img: "img/flatlay-1483938.jpg"
+header-img: "img/post-bg-plan.jpg"
 catalog: true
 tags:
     - CNN

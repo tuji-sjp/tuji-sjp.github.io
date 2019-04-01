@@ -4,7 +4,7 @@ title:      "吴恩达deepAI深度学习第四周课程学习笔记"
 subtitle:   " \"卷积神经网络用于目标检测等等\""
 date:       2019-03-30 17:00:00
 author:     "jack"
-header-img: "img/post-bg-planing.jpg"
+header-img: "img/post-bg-plan.jpg"
 catalog: true
 tags:
     - CNN
