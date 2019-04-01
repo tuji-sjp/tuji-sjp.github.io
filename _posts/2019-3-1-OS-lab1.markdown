@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "操作系统_lab3_操作系统基础 "
+title:      "操作系统_lab1_操作系统基础 "
 subtitle:   " \"First 第一次操作系统实验，初见操作系统\""
-date:       2019-03-10 23:00:00
+date:       2019-03-1 23:00:00
 author:     "jack"
 header-img: "img/post-bg-infinity.jpg"
 catalog: true

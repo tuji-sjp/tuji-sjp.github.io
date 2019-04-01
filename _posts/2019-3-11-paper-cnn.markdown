@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "CNN经典入门Visualizing and Understanding Convolution Networks"
+title:      "论文笔记1:Visualizing and Understanding Convolution Networks"
 subtitle:   " \"第一篇提出可解性研究的论文，开山之作\""
 date:       2019-02-10 13:00:00
 author:     "jack"
-header-img: "img/contact-bg.jpg"
+header-img: "img/flatlay-1483938.jpg"
 catalog: true
 tags:
     - CNN
