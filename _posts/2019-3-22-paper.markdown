@@ -4,7 +4,7 @@ title:      "论文笔记2:STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NETk"
 subtitle:   " \"分析池化的作用，提出1*1网络\""
 date:       2019-03-12 13:00:00
 author:     "jack"
-header-img: "img/post-bg-plan.jpg"
+header-img: "img/post-bg-sea.jpg"
 catalog: true
 tags:
     - CNN

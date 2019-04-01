@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "论文笔记4:Class Acivation Map"
-subtitle:   " \"CV 经典入门 CAM\""
+title:      "论文笔记4:CAM"
+subtitle:   " \"CV 经典入门 Class Acivation Map\""
 date:       2019-03-28 13:00:00
 author:     "jack"
-header-img: "img/post-bg-plan.jpg"
+header-img: "img/post-bg-sea.jpg"
 catalog: true
 tags:
     - CNN

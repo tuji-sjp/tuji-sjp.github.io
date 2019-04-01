@@ -4,7 +4,7 @@ title:      "论文笔记3: Network in network"
 subtitle:   " \"CAM中提出的GAP研究，出自这篇论文\""
 date:       2019-02-15 13:00:00
 author:     "jack"
-header-img: "img/post-bg-plan.jpg"
+header-img: "img/post-bg-sea.jpg"
 catalog: true
 tags:
     - CNN
