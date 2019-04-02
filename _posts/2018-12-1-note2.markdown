@@ -2,7 +2,7 @@
 layout:     post
 title:      "ML 入门 机器学习部分算法"
 subtitle:   " \"介绍自己再matlab上实验的心得吧\""
-date:       2018-12-13 17:00:00
+date:       2018-12-1 17:00:00
 author:     "jack"
 header-img: "img/post-bg-road.jpg"
 catalog: true

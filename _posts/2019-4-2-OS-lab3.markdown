@@ -2,7 +2,7 @@
 layout:     post
 title:      "操作系统_lab3_同步问题 "
 subtitle:   " \"系统调用的进一步理解\""
-date:       2019-03-30 23:00:00
+date:       2019-04-2 23:00:00
 author:     "jack"
 header-img: "img/post-bg-infinity.jpg"
 catalog: true
