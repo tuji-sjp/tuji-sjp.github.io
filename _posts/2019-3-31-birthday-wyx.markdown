@@ -13,7 +13,7 @@ tags:
     - 生日
 ---
 
-> “Yeah It's on. ”
+> “forever. ”
 
 ## 前言
 
@@ -42,7 +42,7 @@ tags:
 你性格超好，我编不下去了，加油吧，砥砺奋进再五年哈哈哈。就像我们的群名9012冲刺班，快乐快乐一起走。
 
 ![](https://ws1.sinaimg.cn/large/007bgNxTly1g1mu7tbn1nj30u00u03zs.jpg)
-------
+
 
 ## 后记
 
@@ -50,7 +50,6 @@ tags:
 
 今晚真的超开心，又一次认识到你们对我很重要。
 
-
 ![](https://ws1.sinaimg.cn/large/007bgNxTly1g1mu70r12bj31090fix1c.jpg)
 
-tonight, we really had a good time for ourselves. 
+Tonight, we really had a good time.
