@@ -5,7 +5,9 @@ header-img: img/about-bg.jpg
 email: 16281052@bjtu.edu.cn
 description: "关于程序与设计、旅行者与梦想家 | 杨涵晨,Programmer,Software Engineer，UX Designer | 这里是 @jack杨涵晨 的个人博客，与你一起发现更大的世界。"
 keyword: "杨涵晨, jack杨涵晨, jack, jackyanghc, @jackyanghc, 杨涵晨的博客, jack Blog, 博客, 个人网站, 互联网, 机器学习, tensorflow, 深度学习, 设计"
-
+url: "https://jackyanghc.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/jackyanghc/jackyanghc.github.io.git" # you code repository
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -66,7 +68,14 @@ netease_comment: false
 # Analytics settings
 # Baidu Analytics 
 # ba_track_id: [your track id]
-
+gitalk:
+  enable: true   #是否开启Gitalk评论
+  clientID: 7684afe9a2e6ccc831b3                            #生成的clientID
+  clientSecret: 5acbca2d785df1f16c321ed4b680adc336ae70c9     #生成的clientSecret
+  repo: jackyanghc.github.io    #仓库名称
+  owner: jackyanghc    #github用户名
+  admin: jackyanghc
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 
@@ -79,7 +88,7 @@ sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 2              # A tag will be featured if the size of it is more than this condition value
 
 
 
@@ -102,5 +111,11 @@ friends: [
     },{
         title: "刘欢的博客",
         href: "https://michel-liu.github.io/"
+    },{
+        title: "BJTU",
+        href: "https://www.bjtu.edu.cn"
+    },{
+        title: "Apple",
+        href: "https://apple.com"
     }
 ]
