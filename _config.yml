@@ -70,8 +70,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 gitalk:
   enable: true   #是否开启Gitalk评论
-  clientID: 7684afe9a2e6ccc831b3                            #生成的clientID
-  clientSecret: 5acbca2d785df1f16c321ed4b680adc336ae70c9     #生成的clientSecret
+  clientID: 4be0d8442674370d2bf7                          #生成的clientID
+  clientSecret: 38d1c090dfd6549e9f1694786a442f2b1097fac5    #生成的clientSecret
   repo: jackyanghc.github.io    #仓库名称
   owner: jackyanghc    #github用户名
   admin: jackyanghc
