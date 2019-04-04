@@ -246,9 +246,7 @@ int main(int argc, char *argv[])
 
 而下面的答案确不如人意。
 
-![1554086159195](C:\Users\11788\AppData\Roaming\Typora\typora-user-images\1554086159195.png)
-
-![1554086213048](C:\Users\11788\AppData\Roaming\Typora\typora-user-images\1554086213048.png)
+![](https://ws1.sinaimg.cn/large/007bgNxTly1g1qkkprklhj319108c0wd.jpg)
 
 ###### 2.2.2 引入加信号量时的实验
 
@@ -364,5 +362,9 @@ int main(int argc,char *argv[])
 
 当我加入判断机制时，可以将buff状态输出，并且避免输入和输出不同速而导致的输入为打印就被重写的情况
 
-![](https://ws1.sinaimg.cn/large/007bgNxTly1g1m0o4dy93j30dt07egll.jpg)
+![](https://ws1.sinaimg.cn/large/007bgNxTly1g1qkm9udf9j30r6075gm7.jpg)
+
+
+
+
 
