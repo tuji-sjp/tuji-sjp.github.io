@@ -12,7 +12,7 @@ tags:
     - 机器学习
 ---
 
-## Standford CS231n 李飞飞可视化和理解DNN学习笔记
+## Standford CS231 李飞飞可视化DNN学习笔记
 
 ### 1.what‘s going on inside ConvNets？
 
