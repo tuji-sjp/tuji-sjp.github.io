@@ -7,9 +7,9 @@ author:     "jack"
 header-img: "img/post-bg-sea.jpg"
 catalog: true
 tags:
-    - CNN
+    - 可解释性
     - 论文笔记
-    - 机器学习
+    - 深度学习
 ---
 
 

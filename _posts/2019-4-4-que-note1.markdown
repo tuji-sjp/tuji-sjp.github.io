@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      "组会问题记录与学校_3.28"
+title:      "组会问题记录与学习_3.28"
 subtitle:   " \"yolo 算法,bounding box 大小，可解释性等问题\""
 date:       2019-04-4 13:00:00
 author:     "jack"
 header-img: "img/post-bg-forest.jpg"
 catalog: true
 tags:
-    - CNN
-    - 论文笔记
-    - 机器学习
+    - 可解释性
+    - 组会记录
+    - 深度学习
 ---
 
 ## 3.28 机器学习与认知计算机第一次组会问题记录
