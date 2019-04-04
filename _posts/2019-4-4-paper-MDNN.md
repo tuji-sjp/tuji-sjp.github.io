@@ -2,7 +2,7 @@
 layout:     post
 title:      "论文笔记5:Methods for Interpreting DNN"
 subtitle:   " \"CV 综述文章分析和介绍现有方法\""
-date:       2019-03-28 13:00:00
+date:       2019-04-4 15:00:00
 author:     "jack"
 header-img: "img/post-bg-sea.jpg"
 catalog: true

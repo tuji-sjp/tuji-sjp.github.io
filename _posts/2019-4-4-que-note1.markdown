@@ -2,7 +2,7 @@
 layout:     post
 title:      "组会问题记录与学校_3.28"
 subtitle:   " \"yolo 算法,bounding box 大小，可解释性等问题\""
-date:       2019-03-28 13:00:00
+date:       2019-04-4 13:00:00
 author:     "jack"
 header-img: "img/post-bg-forest.jpg"
 catalog: true
