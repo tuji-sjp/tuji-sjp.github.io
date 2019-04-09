@@ -18,10 +18,6 @@ tags:
 
 ## <center>吴恩达deepAI深度学习第一周课程学习记录
 
-
-
-[TOC]
-
 #### 一.loss function & cost function 
 
 loss function：一个样本的损失
