@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "idea_可解释性研究规划导图"
-subtitle:   " \"经过和景老师已经学长的讨论对下一步工作的想法进行一个初步总结\""
+subtitle:   " \"经过和景老师以及学长的讨论对下一步工作的想法进行一个初步总结\""
 date:       2019-04-6 13:00:00
 author:     "jack"
 header-img: "img/post-bg-forest.jpg"
