@@ -103,5 +103,6 @@ np.tile(A=c, reps=(4,1))
 
 参考博文：
 
-https://blog.csdn.net/littlehaes/article/details/83472225 
+[https://blog.csdn.net/littlehaes/article/details/83472225 ](https://blog.csdn.net/littlehaes/article/details/83472225  "1"). 
+
 
